@@ -1,3 +1,46 @@
 <resources>
     <string name="app_name">ScrollableListApp</string>
+    <!--Titles-->
+    <string name="title1">Eiffel Tower, Paris, France</string>
+    <string name="title2">Great Wall of China, China</string>
+    <string name="title3">Pyramids of Giza, Egypt</string>
+    <string name="title4">Statue of Liberty, New York, USA</string>
+    <string name="title5">Machu Picchu, Peru</string>
+    <string name="title6">Taj Mahal, Agra, India</string>
+    <string name="title7">Colosseum, Rome, Italy</string>
+    <string name="title8">Christ the Redeemer, Rio de Janeiro, Brazil</string>
+    <string name="title9">Big Ben, London, England</string>
+    <string name="title10">Sydney Opera House, Sydney, Australia</string>
+
+    <!--Descriptions-->
+    <string name="description1">
+        Constructed for the 1889 Exposition Universelle to celebrate the 100th anniversary of the French Revolution, the Eiffel Tower is an iconic symbol of Paris.
+    </string>
+    <string name="description2">
+        Spanning thousands of kilometers, the Great Wall was built over centuries to protect China from invasions.
+    </string>
+    <string name="description3">
+        These ancient pyramids, including the Great Pyramid and the Sphinx, are monumental tombs from Egypt\'s Old Kingdom.
+    </string>
+    <string name="description4">
+        A gift from France to the USA, the Statue of Liberty symbolizes freedom and democracy.
+    </string>
+    <string name="description5">
+        An ancient Incan city set high in the Andes Mountains, known for its sophisticated dry-stone walls and panoramic views.
+    </string>
+    <string name="description6">
+        A white marble mausoleum built by Mughal emperor Shah Jahan in memory of his wife Mumtaz Mahal, showcasing intricate artistry.
+    </string>
+    <string name="description7">
+        An ancient amphitheater that hosted gladiatorial contests and public spectacles, reflecting the grandeur of the Roman Empire.
+    </string>
+    <string name="description8">
+        A towering statue of Jesus Christ with outstretched arms, symbolizes peace and Christianity.
+    </string>
+    <string name="description9">
+        The nickname for the Great Bell of the Clock at the north end of the Palace of Westminster is often extended to refer to both the clock and the clock tower.
+    </string>
+    <string name="description10">
+        An architectural masterpiece renowned for its unique design and as a premier performing arts venue.
+    </string>
 </resources>
